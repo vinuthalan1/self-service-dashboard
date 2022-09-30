@@ -5,6 +5,9 @@
 # Session Data files
 .RData
 
+# Large Data files
+Stratfin Test Data.csv
+
 # User-specific files
 .Ruserdata
 
